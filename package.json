@@ -1,0 +1,19 @@
+{
+  "name": "led",
+  "version": "1.0.0",
+  "description": "Use node to Control GPIO.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "gpio"
+  ],
+  "author": "Wu Kong",
+  "license": "ISC",
+  "dependencies": {
+    "pi-gpio": "0.0.8",
+    "rpio": "^0.9.12"
+  }
+}
